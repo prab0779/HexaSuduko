@@ -1,5 +1,6 @@
 Explanation
 Main Class: This serves as the entry point of the program. It generates a Hexadoku puzzle, prints it, solves it, and then prints the solution.
+
 HexadokuGenerator Class: This class generates a solvable Hexadoku puzzle.
 generatePuzzle(): Initializes the board, fills diagonal regions to ensure it's solvable, solves the filled board to make sure it's complete, and then removes some numbers to create the puzzle.
 fillEmptyBoard(): Initializes the board with empty cells.
