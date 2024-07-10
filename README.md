@@ -22,3 +22,5 @@ solveSudoku(): Recursively solves the puzzle.
 isValidMove(): Checks if placing a number in a specific cell is valid.
 
 You can run this program in your Java development environment. It will generate a Hexadoku puzzle, solve it, and print both the generated puzzle and the solved puzzle.
+
+![image](https://github.com/prab0779/HexaSuduko/assets/101067217/8adb2f0b-c953-4cd4-9f28-ba31ef1750f7)
